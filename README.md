@@ -1,0 +1,1 @@
+just another HTML and CSS project for learning, uses 0 javascript which is why majority of the content on the page is static and/or hardcoded. Isnt meant for functionality but rather to look as close as possible to the actual youtube front page while still having some of its own quirks 
